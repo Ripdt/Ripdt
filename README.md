@@ -1,5 +1,10 @@
-Meu nome é Filipi Scalvin da Costa.
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=ripdt&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-Sou programador de ERP, trabalhando com as linguagens VB, C# e Genexus com Banco de Dados em PostgreSQL. Procuro conhecer ainda mais sobre outros meios de desenvolvimento de softwares. Atualmente cursando Ciências da Computação na UNIVALI (Universidade do Vale do Itajaí) -- previsão de término em julho de 2027.
+### Olá! 
+#### É um prazer tê-lo(a) em meu perfil! Me chamo Filipi!
 
-Possuo conhecimento nas linguagens Python, C++, C#, JavaScript, HTML e CSS.
+<img src="https://img.shields.io/static/v1?label=Overview&message=Filipi&color=f8efd4&style=for-the-badge&logo=GitHub">
+
+<p> Estudando/trabalhando na **Universidade do Vale do Itajaí**<br/> Eu sou desenvolvedor **C++**.</p>
+
+<hr>
