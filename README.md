@@ -1,10 +1,14 @@
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=ripdt&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-### Olá! 
-#### É um prazer tê-lo(a) em meu perfil! Me chamo Filipi!
+<div align='center'>  <img src="https://github-readme-stats.vercel.app/api?username=ripdt&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="GitHub Stats">  </div>  
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Filipi&color=f8efd4&style=for-the-badge&logo=GitHub">
+# Olá! 👋 
+## Prazer ter você no meu perfil! Me chamo Filipi!
 
-<p> Estudando/trabalhando na **Universidade do Vale do Itajaí**<br/> Eu sou desenvolvedor **C++**.</p>
+ 🎓 Sou um estudante apaixonado por tecnologia e sempre em busca de aprimorar minhas habilidades de desenvolvimento de software. 
+ 
+ 🚀 Provavelmente você encontrará uma variedade de tecnologias neste perfil, mas uma delas está presente em 90% dos meus projetos: **C with classes**. 
+ 
+ 📚 Atualmente, estou estudando na **Universidade do Vale do Itajaí**. 
 
-<hr>
+ 💡 Sou apaixonado por programação e estou focado em me tornar um desenvolvedor especializado em **C++**. 
+ <hr>
